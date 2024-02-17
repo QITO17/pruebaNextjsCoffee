@@ -47,7 +47,7 @@ const Contacto = () => {
 
             <p className=' text-[2.5rem] font-bold w-[250px] mb-4 '>¿Querés Hablar?</p>
 
-            <form action="https://formsubmit.co/arleyhurtado182@gmail.com?auto" method='POST' className=' flex flex-col gap-6  max-w-[500px] '>
+            <form action="https://formsubmit.co/digital@marabunta.co" method='POST' className=' flex flex-col gap-6  max-w-[500px] '>
 
                 <input className='  border border-orange-900 p-2 rounded-[5px] ' type="text" name="Nombre" id="" placeholder='Tu Nombre' />
                 
